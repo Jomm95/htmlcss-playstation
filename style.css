@@ -1,26 +1,22 @@
 /* HEADER */
 
 .ms-logo {
-    width:5rem;
+    width:8%;
 }
 
 .ms-returnal-banner {
-    width:10rem;
+    width:50%;
 }
 
 .jumbotron {
     background-image: url("img/jumbo-bg.png");
     background-size: cover;
-    min-height: 300px;
-    margin-top: 3rem;
+    min-height: 340px;
+    
 }
 
 .ps-plus {
     background-color: #bebcbb;
-}
-
-.ps-plus-logo {
-    width:50%;
 }
 
 .ms_psplus-button {
