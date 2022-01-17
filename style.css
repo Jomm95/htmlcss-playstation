@@ -1,0 +1,16 @@
+/* HEADER */
+
+.ms-logo {
+    width:5rem;
+}
+
+.ms-returnal-banner {
+    width:10rem;
+}
+
+.jumbotron {
+    background-image: url("img/jumbo-bg.png");
+    background-size: cover;
+    min-height: 300px;
+    margin-top: 3rem;
+}
