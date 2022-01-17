@@ -1,8 +1,12 @@
 /* HEADER */
 
 .ms-logo {
-    width:8%;
+    width:5rem;
 }
+
+.ms_lens {
+    width:1.5rem;
+} 
 
 .ms-returnal-banner {
     width:50%;
