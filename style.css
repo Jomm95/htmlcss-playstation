@@ -1,5 +1,4 @@
 /* HEADER */
-
 .ms-logo {
     width:5rem;
 }
@@ -8,15 +7,23 @@
     width:1.5rem;
 } 
 
-.ms-returnal-banner {
-    width:50%;
-}
+/* main */
 
 .jumbotron {
     background-image: url("img/jumbo-bg.png");
     background-size: cover;
-    min-height: 340px;
-    
+    background-position: center;
+    min-height: 250px;
+    margin-top: 110px;
+}
+
+.ms_margin-top {
+    margin-top: 300px;
+    margin-bottom:50px;
+}
+
+.ms_small-font {
+    font-size: 14px;
 }
 
 .ps-plus {
@@ -25,4 +32,40 @@
 
 .ms_psplus-button {
     background-color: #d9dadc;
+    font-size: 14px;
 }
+
+/* thumbnail */
+
+.ms_border {
+    border-bottom: 2px solid rgb(44, 128, 255);
+}
+
+/* it takes two section */
+
+.it-takes-two {
+    background-image: url("img/it-takes-two-hero-banner-desktop.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+/* PS-NOW */
+
+.ps-now {
+    background-color: #161c3b;
+}
+
+.ms_ps-now-button {
+    background-color: white;
+}
+
+/* footer */
+
+.sub-footer {
+    background-color:#00439c;
+}
+
+.ms_globe-img {
+    width:1em;
+}
+
